@@ -6,8 +6,8 @@
 | CVE-2017-10059 | Oracle BI Publisher - Stored XSS | [Security advisory](https://www.oracle.com/security-alerts/cpujul2017.html) |
 | CVE-2017-10060 | Oracle BI Publisher XXE | [Security advisory](https://www.oracle.com/security-alerts/cpuoct2017.html) |
 | CVE-2017-10068<br>CVE-2018-2651<br>CVE-2018-2652<br>CVE-2018-2653<br>CVE-2018-2695 | BI Publisher, PeopleSoft Enterprise PeopleTools XSS, XXE, SSRF, XSLT execution | [Security advisory](https://www.oracle.com/security-alerts/cpujan2018.html) |
-| aaaaaa5 | 🐛    | [Security advisory](#) |
-| aaaaaaa36 | ✅    | [Security advisory](#) |
+| CVE-2017-1631 | Tivoli Netcool/OMNIbus WebGUI CSRF  | [Security advisory](https://www.ibm.com/support/pages/security-bulletin-security-vulnerability-has-been-identified-jazz-service-management-shipped-tivoli-netcoolomnibus-webgui-cve-2017-1631) |
+| CVE-2018-6498, CVE-2018-6499 | Microfocus - AutoPass License Server Remote Code Execution | [Security advisory](https://softwaresupport.softwaregrp.com/doc/KM03236632)) |
 | aaaaaa7 | 🌐    | [Security advisory](#) |
 | Caaaaa8 | 📡    | [Security advisory](#) |
 | aaaaaaaa39 | ⭐    | [Security advisory](#) |
