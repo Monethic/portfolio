@@ -1,4 +1,4 @@
-# CVE Numbers of Vulnerabilities Found by Monethic Team Members
+# CVEs & Security advisories - found by Monethic team members
 
 | CVE        | Topic | Details |
 |------------|-------|---------|
