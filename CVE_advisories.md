@@ -3,15 +3,16 @@
 | CVE                                     | Description | Details |
 |-----------------------------------------|-------|---------|
 |CVE-2017-1181<br>CVE-2017-1183<br>CVE-2017-11821 | IBM TEP Server - SQL Injection, Authorization Bypass, OS Command Injection  | [Security advisory](http://www-01.ibm.com/support/docview.wss?uid=swg22003402) |
-| aaaa | 🔒    | [Vulnerability Details 2](#) |
-| aaaa | 🚨    | [Vulnerability Details 3](#) |
-| aaaa | 🛡️    | [Vulnerability Details 4](#) |
-| aaaaaa5 | 🐛    | [Vulnerability Details 5](#) |
-| aaaaaaa36 | ✅    | [Vulnerability Details 6](#) |
-| aaaaaa7 | 🌐    | [Vulnerability Details 7](#) |
-| Caaaaa8 | 📡    | [Vulnerability Details 8](#) |
-| aaaaaaaa39 | ⭐    | [Vulnerability Details 9](#) |
-| CVaaaaaaa40 | 🌟    | [Vulnerability Details 10](#) |
+| CVE-2017-10059 | Oracle BI Publisher - Stored XSS | [Security advisory](https://www.oracle.com/security-alerts/cpujul2017.html) |
+| CVE-2017-10060 | Oracle BI Publisher XXE | [Security advisory](https://www.oracle.com/security-alerts/cpuoct2017.html) |
+| CVE-2017-10068<br>CVE-2018-2651<br>CVE-2018-2652<br>CVE-2018-2653<br>CVE-2018-2695 | BI Publisher, PeopleSoft Enterprise PeopleTools
+XSS, XXE, SSRF, XSLT execution | [Security advisory]((https://www.oracle.com/security-alerts/cpujan2018.html) |
+| aaaaaa5 | 🐛    | [Security advisory](#) |
+| aaaaaaa36 | ✅    | [Security advisory](#) |
+| aaaaaa7 | 🌐    | [Security advisory](#) |
+| Caaaaa8 | 📡    | [Security advisory](#) |
+| aaaaaaaa39 | ⭐    | [Security advisory](#) |
+| CVaaaaaaa40 | 🌟    | [Security advisory](#) |
 | Caaaaaaa41 | 🎯    | [Vulnerability Details 11](#) |
 | Caaaaaaa2 | 📊    | [Vulnerability Details 12](#) |
 | Caaaaaaa43 | 🛠️    | [Vulnerability Details 13](#) |
