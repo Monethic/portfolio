@@ -7,18 +7,13 @@
 | [BJustCoin](https://bjustcoin.com) - DeFi Token & Staking Platform | Solidity, ERC20, Staking | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20BJustCoin%20-%20Final.pdf) |
 | [BJustCoin](https://bjustcoin.com) - Platform pentest | Web App, Pentest | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Penetration%20Testing%20Report%20-%20BJustCoin.pdf) |
 | [Crash Game](https://github.com/CDSecurity/audits) - Web-based crash game | Web2, Backend Security | [📄 Report.pdf](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
-| [IOTA](https://www.iota.org) - IOTA Smart Contracts | MOVE, Sui | Report not yet public |
 | [Tand3m Launchpad](https://tand3m.com) - TON Launchpad Smart Contracts | TON, Tact | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2025/02/Tand3m-Smart-Contract-Audit-Report-Final-Report.pdf) |
-| [Cabal](https://cabal.xyz) - Backend Services | Web2, API Security | Report not yet public |
-| [Cabal](https://cabal.xyz) - Liquid Staking Token | MOVE, Aptos | Report not yet public |
-| [Archie](https://archie.io) - Bridge and Backend | Solana, Rust, Web2 | Report not yet public |
 | [Dexlyn Bridge](http://dexlyn.com/) - Cross-chain Bridge | MOVE, Aptos, Bridge | [📄 Report.pdf](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
 | [Balanced Network](https://balanced.network) - DeFi Protocol | MOVE, Sui | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/08/Balanced-Move-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | [U2U Mobile Wallet](https://u2u.xyz) - Mobile Wallet Application | Android, iOS, Mobile Application, Wallet | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/10/U2U-Mobile-Wallet-Penetration-Test-Report-Final-Report.pdf) |
 | [Magma Core](https://magma.finance) - Core Protocol | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf) |
 | [AgriDex](https://agridex.xyz) - Agricultural Trading Platform | Solana, Rust, Web2 | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/11/AgriDex-Penetration-Test-Report-Final-Report.pdf) |
 | [SendIt](https://sendit.finance) - Cross-chain Transfers | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf) |
-| [Glue Vesting](https://glue.net) - Vesting Contracts | Rust, Substrate | Report not yet public |
 | [Dark Mythos](https://darkmythos.com) - Gaming Protocol | Solidity, EVM | [📄 Report.pdf](https://www.auditone.io/audit-report/dark-mythos-audit) |
 | [Xtreamly](https://xtreamly.io) - Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-xtreamly/) |
 | [Cypher Autoload](https://cypher.com) - Autoload Simple | Solidity, EVM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Cypher%20Wallet/2024-08-08%20Audit%20Report%20-%20Cypher%20Autoload%20Simple%20v1.0.pdf) |
@@ -41,15 +36,11 @@
 | [Wolf Game](https://wolf.game) - Cave Game, ERC721 | Solidity, BLAST, Gaming, NFT | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Wolf%20Game%20-%20Final.pdf) |
 | [Magic Beans](https://magicbeans.fun) - Magic Beans OTC | Solana, Rust, OTC | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Magic%20Beans%20-%20Final.pdf) |
 | [Orderly Network](https://orderly.network) - Asset Manager Smart Contract | Rust, NEAR | [📄 Report.pdf](https://github.com/OrderlyNetwork/Audits/blob/main/Independent%20Researcher_09_2023.pdf) |
-| [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools (Curve Fork) Contracts | Solidity, Vyper | - |
 | [Holoride](https://dapp.holoride.com/bridge) - Holoride Ethereum <> MultiversX Bridge | Rust, MultiversX/Elrond, Bridge | [📄 Report.pdf](https://drive.google.com/file/d/1gAlMuEZNotejVqVdxHqVM3Qben79ETHt/view) |
 | [Uncharted](https://www.uncharted.gg) - GangsterArena 5 | Solidity, BLAST, Gaming | [📄 Report.pdf](https://drive.google.com/file/d/1OJ-VrKXmw0NUKswuUBIAlegZvGUvhTH1/view) |
 | [Tezos](https://tezos.com) - Tezos Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-tezos/) |
 | [Polkadot](https://polkadot.com) - Polkadot Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-polkadot/) |
 | [Sei](https://www.sei.io) - Sei Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-sei/) |
-| [Uncharted](https://www.uncharted.gg) - Confidential Gaming Protocol | Solidity, BLAST, Gaming | soon |
-| [Uncharted](https://www.uncharted.gg) - Confidential Gaming Protocol v2 | Solidity, BLAST, Gaming | soon |
-| Confidential - MetaMorpho ERC4626 Vaults | Solidity, MetaMorpho, ERC4626, Vaults | soon |
 | [Unhosted Wallet](https://unhosted.com) - Unhosted Wallet Extension Core & Backend Services | TypeScript, Extension, Wallet | [📄 Report.pdf](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-03_Security_Review_Penetration_Testing_Unhosted%20Wallet_Extension%20Core_%26_Backend_Services.pdf) |
 | [Aave](https://aave.com) - Aave on Aptos Core v3.0.2 | MOVE, Aptos, Aave v3 | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Certora%20Aave%20Aptos%20Core%20V3.0.2%20Report.pdf) |
 | [Aave](https://aave.com) - Aave on Aptos Core v3.1-3.3 | MOVE, Aptos, Aave v3 | [📄 Report.pdf](https://github.com/aave/aptos-aave-v3/blob/main/audits/Certora%20Aave%20Aptos%20Core%20V3.1-V3.3%20Report.pdf) |
@@ -116,6 +107,15 @@
 | [Osmosis Labs](https://osmosis.zone/) - Osmosis Transmuter v3 | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/491d60921f02ba76605fe1326c5a956fb1457647/Osmosis%20Labs/2024-05-15%20Audit%20Report%20-%20Osmosis%20Transmuter%20v3%20v1.0.pdf) |
 | [Astroport](https://astroport.fi/en) - Astroport Hub Neutron Migration | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/2f78993697732821ed8a84834f95bbea99afc78f/Astroport/2024-05-22%20Audit%20Report%20-%20Astroport%20Hub%20Neutron%20Migration%20v1.0.pdf) |
 | [Yieldmos](https://www.yieldmos.com) - Outpost Osmosis | Rust, CosmWasm, DeFi | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/6547cfbb15a0533e9dee9be0e5569e0e046ed875/Yieldmos/2024-05-17%20Audit%20Report%20-%20Yieldmos%20Outposts%20Osmosis%20v1.0.pdf) |
+| [Cascadia Foundation](https://cascadia.gitbook.io/gitbook/) - Liquidity Pools (Curve Fork) Contracts | Solidity, Vyper | - |
+| [Cabal](https://cabal.xyz) - Backend Services | Web2, API Security | Report not yet public |
+| [Cabal](https://cabal.xyz) - Liquid Staking Token | MOVE, Aptos | Report not yet public |
+| [Archie](https://archie.io) - Bridge and Backend | Solana, Rust, Web2 | Report not yet public |
+| [IOTA](https://www.iota.org) - IOTA Smart Contracts | MOVE, Sui | Report not yet public |
+| [Glue Vesting](https://glue.net) - Vesting Contracts | Rust, Substrate | Report not yet public |
+| [Uncharted](https://www.uncharted.gg) - Confidential Gaming Protocol | Solidity, BLAST, Gaming | soon |
+| [Uncharted](https://www.uncharted.gg) - Confidential Gaming Protocol v2 | Solidity, BLAST, Gaming | soon |
+| Confidential - MetaMorpho ERC4626 Vaults | Solidity, MetaMorpho, ERC4626, Vaults | soon |
 
 ## Contest Results
 
