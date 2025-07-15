@@ -1,5 +1,18 @@
 # Unified audit portfolio of our Engineers experience
 
+### Jakub Heba
+Cybersecurity expert with more than Nine years of experience in the industry. For 3.5 years associated with blockchain technology as a Lead Smart Contract and Blockchain auditor. He conducted over 120 audits of various protocols, mostly related to DeFi and DLT. He is specializing in the security of contracts written in Rust, Golang and MOVE, in ecosystems like Polkadot, Solana, Sui, Aptos and Polkadot, as well as he has a deep technical understanding of EVM and Solidity. He participated in assessments testing low-level aspects of blockchain technology, such as finality proof verifications, serialization libraries, L2 rollapps, ZK Circuits as well as implementations of bridges between many different ecosystems. He has an experience in auditing Layer 1 Blockchains written in Rust, Golang and MOVE. Additionally, he has an experience in testing offchain components such as wallets, infrastructures, oracles and backends. He is also specializing in low-level binary exploitation in both UNIX and Windows environments. Holder of OSCP, OSCE and Lead ISO27001 Auditor certificates.
+
+CEO & Cofounder at Monethic. Currently, he is also Blockchain Security Researcher at [Spearbit (ASR)](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Oak Security](https://www.oaksecurity.io/), [Sayfer](https://sayfer.io), [Certora](https://certora.com), [Plainshift](https://plainshift.io) and [Hacken](https://hacken.io).
+
+### Łukasz Mikuła
+Offensive cybersecurity professional with 10 years in the industry with a solid pentesting/red teaming background. Since more than 3 years present in web3, auditing Smart Contracts and assessing security of other blockchain-related tech.
+He is specializing in EVM (Solidity), Move (Sui/Aptos) and Rust-based languages such as CosmWasm and Solana. 
+He is proficient with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots, bridge offchain components and any other hybrid web2/3 solutions.
+Additionally, he is an independent auditor working with firms such as, but not limited to: [Oak Security](https://www.oaksecurity.io/), [Spearbit (ASR)](https://spearbit.com/) and [Zenith](https://www.zenith.security/). 
+
+Scored several TOP10 places in contests such as Sherlock, Code4rena and Cantina.
+
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Arkeo](https://arkeo.network) - Decentralized Data Infrastructure | Cosmos SDK, Golang | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Arkeo%20-%20Final.pdf) |
