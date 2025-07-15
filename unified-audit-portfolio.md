@@ -2,8 +2,11 @@
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [Arkeo](https://arkeo.network) - Decentralized Data Infrastructure | Cosmos SDK, Golang | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Arkeo%20-%20Final.pdf) |
+| [WYachts](https://yachts.io) - NFT Collection & DeFi Protocol | Solidity, ERC721, NFT | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20Yachts%20-%20Final.pdf) |
+| [BJustCoin](https://bjustcoin.com) - DeFi Token & Staking Platform | Solidity, ERC20, Staking | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Smart%20Contract%20Audit%20Report%20-%20BJustCoin%20-%20Final.pdf) |
+| [BJustCoin](https://bjustcoin.com) - Platform pentest | Web App, Pentest | [📄 Report.pdf](https://github.com/Monethic/portfolio/blob/main/audit-reports/Penetration%20Testing%20Report%20-%20BJustCoin.pdf) |
 | [Crash Game](https://github.com/CDSecurity/audits) - Web-based crash game | Web2, Backend Security | [📄 Report.pdf](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
-| [Drop Initia LP](https://hadronlabs.org) - Drop Initia Liquidity Provider | MOVE, MoveVM, CosmosSDK, Initia, Aptos | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Drop/2025-04-17%20Audit%20Report%20-%20Drop%20Initia%20Liquidity%20Provider%20v1.0.pdf) |
 | [IOTA](https://www.iota.org) - IOTA Smart Contracts | MOVE, Sui | Report not yet public |
 | [Tand3m Launchpad](https://tand3m.com) - TON Launchpad Smart Contracts | TON, Tact | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2025/02/Tand3m-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | [Cabal](https://cabal.xyz) - Backend Services | Web2, API Security | Report not yet public |
@@ -16,7 +19,6 @@
 | [AgriDex](https://agridex.xyz) - Agricultural Trading Platform | Solana, Rust, Web2 | [📄 Report.pdf](https://hashlock.com/wp-content/uploads/2024/11/AgriDex-Penetration-Test-Report-Final-Report.pdf) |
 | [SendIt](https://sendit.finance) - Cross-chain Transfers | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf) |
 | [Glue Vesting](https://glue.net) - Vesting Contracts | Rust, Substrate | Report not yet public |
-| [Astroport](https://astroport.fi/en) - vxASTRO Updates | Rust, CosmWasm | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-08-20%20Audit%20Report%20-%20Astroport%20vxASTRO%20Updates%20v1.0.pdf) |
 | [Dark Mythos](https://darkmythos.com) - Gaming Protocol | Solidity, EVM | [📄 Report.pdf](https://www.auditone.io/audit-report/dark-mythos-audit) |
 | [Xtreamly](https://xtreamly.io) - Metamask Snap | TypeScript, Metamask Snap | [📄 Report.pdf](https://sayfer.io/audits/metamask-snap-audit-report-for-xtreamly/) |
 | [Cypher Autoload](https://cypher.com) - Autoload Simple | Solidity, EVM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/main/Cypher%20Wallet/2024-08-08%20Audit%20Report%20-%20Cypher%20Autoload%20Simple%20v1.0.pdf) |
@@ -74,7 +76,6 @@
 | [Layer Zero](https://layerzero.network) - Layer Zero V2 | Solana, Anchor, Rust, Bridge | [📄 Report.pdf](https://github.com/LayerZero-Labs/Audits/blob/main/audits/SolanaEndPoint-Pashov-28MAY2024.pdf) |
 | [Mysten Labs](https://mystenlabs.com) - Sui - Adapter & Verifier | MOVE, L1, Sui | [📄 Report.pdf](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf) |
 | [Volo Sui](https://www.volosui.com) - VOLO Liquid Staking | MOVE, Sui, Liquid Staking | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2023/09/VOLO-SC_Audit_Report-2023.08.22-SA-1583.pdf) |
-| [Satay Finance](https://www.satay.finance) - Satay Aptos | MOVE, Aptos | [📄 Report.pdf](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | [Bifrost](https://bifrost.finance) - Leverage Staking | Rust, Substrate, Staking | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Bifrost/2024-03-11%20Audit%20Report%20-%20Bifrost%20Finance%20Leveraged%20Staking%20v1.0.pdf) |
 | [Starlay Finance](https://starlay.finance) - Starlay Protocol WASM | Rust, ink!, WASM | [📄 Report.pdf](https://github.com/oak-security/audit-reports/blob/07caf5ba430983f6b53786f54aa5a6919e99d214/Starlay/2024-03-06%20Audit%20Report%20-%20Starlay%20Protocol%20Wasm%20v1.0.pdf) |
 | [Ociswap](https://ociswap.com) - Scrypto AVL Tree Implementation | Rust, Scrypto, AVL Tree, Radix DLT | [📄 Report.pdf](https://wp.hacken.io/wp-content/uploads/2024/01/Ociswap_AVL-tree_SC-Audit-Report_21112023_SA-1999-1.pdf) |
